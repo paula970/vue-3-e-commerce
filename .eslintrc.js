@@ -18,4 +18,4 @@ export default {
     // 'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     // Puedes añadir tus reglas personalizadas aquí
   },
-}
+};
